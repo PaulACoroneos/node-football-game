@@ -1,0 +1,23 @@
+{
+  "name": "football-game",
+  "version": "1.0.0",
+  "description": "A small football gaming using node.js to practice using constructors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulACoroneos/node-football-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulACoroneos/node-football-game/issues"
+  },
+  "homepage": "https://github.com/PaulACoroneos/node-football-game#readme",
+  "dependencies": {
+    "inquire": "^0.4.8",
+    "inquirer": "^6.2.0"
+  }
+}
